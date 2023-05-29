@@ -1,4 +1,4 @@
-## NeKoZ-Meow
+## Kodai-Okayama
 ---
 ### status
 ![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=NekoZ-Meow) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoZ-Meow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
